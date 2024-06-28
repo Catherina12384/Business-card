@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+.mainContent{
+    width: 80%;
+    height: 70%;
+    text-align: justify;
+    padding: 0;
+    color: #fff;
+    font-family: Inter;
+}
+h2{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+p{
+    font-size: 10.24px;
+    font-weight: 400;
+    line-height: 15.36px;
+}

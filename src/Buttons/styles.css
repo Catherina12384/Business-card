@@ -1,0 +1,42 @@
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.mail-btn{
+    border-radius: 6px;
+    height: 34px;
+    width: 115px;
+    border: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 17px;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    color: #4f4d4d;
+    gap: 8px;
+}
+.linked-in-btn{
+    border-radius: 6px;
+    height: 34px;
+    width: 115px;
+    background-color: #3585df;
+    border: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 17px;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    color: #fff;
+    gap: 8px;
+}
+
+.mail-btn .email{
+    height: 15px;
+    width: 15px;
+}
+
+.linked-in-btn .linkedin{
+    height: 15px;
+    width: 15px;
+}
